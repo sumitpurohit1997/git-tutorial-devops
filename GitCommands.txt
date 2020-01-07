@@ -1,0 +1,6 @@
+//add a file in staging area
+git add filename
+//check the status to know whether a file needs to be commited or not
+git status 
+// To commit 
+git commit -m "message"
